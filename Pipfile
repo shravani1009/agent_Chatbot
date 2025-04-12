@@ -10,10 +10,10 @@ langchain = "*"
 langchain-groq = "*"
 langchain-openai = "*"
 langchain-community = "*"
-streamlit = "*"
 python-dotenv = "*"
 requests = "*"
 uvicorn = "*"
+streamlit = "*"
 
 [dev-packages]
 
